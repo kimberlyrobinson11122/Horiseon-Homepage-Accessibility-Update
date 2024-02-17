@@ -37,6 +37,9 @@ This solved the accessibility issue this site had prior to this release
 Screenshot of the first build
 ![Horiseon Home Page Screenshot](./assets/images/Horiseon_Home_Page_Screenshot_Launch.png)
 
+## Website Location
+![Horiseon Home Page URL](https://kimberlyrobinson11122.github.io/Horiseon-Homepage-Accessibility-Update/)
+
 ## Credits
 Instructors: starter code was provided
 
