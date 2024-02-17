@@ -1,3 +1,5 @@
+/*--this conforms to requirements set forth but the client around accessibility*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/*--nav colors set up to match company branding colors--*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/*--company requested a large banner image to highlight the collaborative nature of their company--*/
 .hero {
     height: 800px;
     width: 100%;
