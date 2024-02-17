@@ -34,7 +34,7 @@ THEN I find all links are functioning correctly
 This solved the accessibility issue this site had prior to this release
 
 ## Images
-Screenshot of the first build
+Screenshot of the first build with the accessibility updates
 ![Horiseon Home Page Screenshot](./assets/images/Horiseon_Home_Page_Screenshot_Launch.png)
 
 ## Website Location
